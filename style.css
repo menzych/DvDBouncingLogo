@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+#logo {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    background-image: url('dvd-logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    background-blend-mode: multiply;
+}
